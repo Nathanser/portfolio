@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit" />
+    <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +141,7 @@
       <workItem from="1690716336135" duration="755000" />
       <workItem from="1690717814478" duration="1273000" />
       <workItem from="1690728297962" duration="44000" />
-      <workItem from="1690728778711" duration="2566000" />
+      <workItem from="1690728778711" duration="3329000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1688915976844</created>
