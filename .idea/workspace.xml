@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/portfolio/css/portfolio.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/stage/stage.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qp5454VNR4fJvFdHY6neOcWvPs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/natha/Nouveau dossier/STAGE/Portfolio/Portfolio Nathan SERROR - version github&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;cassandra&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio\Portfolio Nathan SERROR - version github" />
+      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR - version github\portfolio\docs" />
+      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR\portfolio\img\icons app stage" />
+      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR" />
+      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR\portfolio\docs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio\Portfolio Nathan SERROR - version github" />
+      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR - version github\stage" />
+      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR - version github\portfolio\docs" />
+      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR - version github\stage\docs" />
+      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR\portfolio\img\missions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="" />
+      <created>1686037487401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686037487401</updated>
+      <workItem from="1686037488622" duration="11034000" />
+      <workItem from="1686054637703" duration="11859000" />
+      <workItem from="1686091602698" duration="418000" />
+      <workItem from="1686092042140" duration="3000" />
+      <workItem from="1686092061381" duration="22000" />
+      <workItem from="1686122763815" duration="17555000" />
+      <workItem from="1686167694795" duration="4877000" />
+      <workItem from="1686209146352" duration="5293000" />
+      <workItem from="1686214549352" duration="175000" />
+      <workItem from="1686226587450" duration="4979000" />
+      <workItem from="1686244300039" duration="15406000" />
+      <workItem from="1686295928221" duration="14791000" />
+      <workItem from="1686475650689" duration="3438000" />
+      <workItem from="1686505506427" duration="11293000" />
+      <workItem from="1686555826558" duration="18632000" />
+      <workItem from="1686595816530" duration="2386000" />
+      <workItem from="1686599927620" duration="832000" />
+      <workItem from="1686600775637" duration="1447000" />
+      <workItem from="1686641985255" duration="3432000" />
+      <workItem from="1686728190227" duration="22344000" />
+      <workItem from="1686774458434" duration="12233000" />
+      <workItem from="1686856843502" duration="6131000" />
+      <workItem from="1686906359339" duration="12305000" />
+      <workItem from="1687047058439" duration="3158000" />
+      <workItem from="1687050984755" duration="2633000" />
+      <workItem from="1687087153786" duration="2848000" />
+      <workItem from="1687114238659" duration="4400000" />
+      <workItem from="1687160826315" duration="7084000" />
+      <workItem from="1687293030613" duration="3036000" />
+      <workItem from="1687379139566" duration="12071000" />
+      <workItem from="1687442993451" duration="2654000" />
+      <workItem from="1687507844867" duration="3524000" />
+      <workItem from="1687715575702" duration="1250000" />
+      <workItem from="1687766711081" duration="8111000" />
+      <workItem from="1687779281876" duration="1979000" />
+      <workItem from="1687781367948" duration="10592000" />
+      <workItem from="1687792238780" duration="2557000" />
+      <workItem from="1687811104172" duration="8660000" />
+      <workItem from="1687851720026" duration="10643000" />
+      <workItem from="1687866405423" duration="12277000" />
+      <workItem from="1687893535588" duration="5877000" />
+      <workItem from="1688026907504" duration="7149000" />
+      <workItem from="1688040403368" duration="12371000" />
+      <workItem from="1688053854253" duration="27000" />
+      <workItem from="1688302214720" duration="2528000" />
+      <workItem from="1688571452019" duration="8758000" />
+      <workItem from="1688650311931" duration="13131000" />
+      <workItem from="1688681675212" duration="6142000" />
+      <workItem from="1688738335959" duration="15979000" />
+      <workItem from="1688855604055" duration="29202000" />
+      <workItem from="1688890339162" duration="1267000" />
+      <workItem from="1688915673902" duration="1577000" />
+      <workItem from="1688917561243" duration="108000" />
+      <workItem from="1688918696291" duration="681000" />
+      <workItem from="1688933862542" duration="3468000" />
+      <workItem from="1689022894410" duration="1862000" />
+      <workItem from="1689278673037" duration="1964000" />
+      <workItem from="1689541747105" duration="4318000" />
+      <workItem from="1690716336135" duration="755000" />
+      <workItem from="1690717814478" duration="1273000" />
+      <workItem from="1690728297962" duration="44000" />
+      <workItem from="1690728778711" duration="2566000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1688915976844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688915976844</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1688916772750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688916772750</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1688917235502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688917235502</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1688939565114</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688939565114</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first commit">
+      <created>1689544130285</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689544130285</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first commit">
+      <created>1689544901085</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689544901085</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first commit">
+      <created>1689545797155</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689545797155</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first commit">
+      <created>1689545970606</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689545970606</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first commit">
+      <created>1689546008185</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689546008185</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/particles.js-master/app.js</url>
+          <line>65</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
