@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/Nathan Serror-MRT-LINUX1-SIO1-certificate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/MRT-LINUX-CERTIFICATE.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/bac.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/Baccalauréat-Général-Nathan-SERROR.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/pix-cut.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/Certification-PIX-cut.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/pix.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/Certification-PIX.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,32 +43,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio/Portfolio Nathan SERROR - version github",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio Nathan SERROR - version github/portfolio/img/diplômes - certifications&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "cassandra"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;cassandra&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\diplômes - certifications" />
+      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio" />
       <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio\Portfolio Nathan SERROR - version github" />
       <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR - version github\portfolio\docs" />
       <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR\portfolio\img\icons app stage" />
-      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR" />
-      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR\portfolio\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio\Portfolio Nathan SERROR - version github" />
@@ -143,6 +149,12 @@
       <workItem from="1690728297962" duration="44000" />
       <workItem from="1690728778711" duration="3346000" />
       <workItem from="1693759230648" duration="1901000" />
+      <workItem from="1693775670438" duration="859000" />
+      <workItem from="1693776769980" duration="20000" />
+      <workItem from="1693776899243" duration="1000" />
+      <workItem from="1693776925579" duration="32000" />
+      <workItem from="1693777271080" duration="3946000" />
+      <workItem from="1693842435593" duration="5731000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1688915976844</created>
@@ -228,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693774713189</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="first commit">
+      <created>1693775776190</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693775776190</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
