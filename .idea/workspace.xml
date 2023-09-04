@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/css/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/portfolio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/Nathan Serror-MRT-LINUX1-SIO1-certificate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/MRT-LINUX-CERTIFICATE.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/bac.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/Baccalauréat-Général-Nathan-SERROR.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/pix-cut.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/Certification-PIX-cut.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/pix.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/img/diplômes - certifications/Certification-PIX.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +148,8 @@
       <workItem from="1693776899243" duration="1000" />
       <workItem from="1693776925579" duration="32000" />
       <workItem from="1693777271080" duration="3946000" />
-      <workItem from="1693842435593" duration="5731000" />
+      <workItem from="1693842435593" duration="6275000" />
+      <workItem from="1693853406757" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1688915976844</created>
@@ -247,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693775776190</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="first commit">
+      <created>1693849002975</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693849002975</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
