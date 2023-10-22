@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/portfolio/docs/documentations-pdf/Documentation-Configuration Liaison LDAP GLPI et AD DS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/docs/documentations-pdf/Documentation-Configuration par GPO de l'Agent-GLPI.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/docs/documentations-pdf/Documentation-Installation Active Directory (AD DS) Windows Server 2022.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/docs/documentations-pdf/Documentation-Installation Debian 12.1.0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/docs/documentations-pdf/Documentation-Installation GLPI sur Debian.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/docs/documentations-pdf/Documentation-Installation Windows Server 2022.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/docs/documentations-pdf/Documentation-Installation et Configuration SSH sur Debian.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/img/fond/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/img/fond/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/img/fond/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/img/fond/img_4.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,32 +48,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio Nathan SERROR - version github/portfolio/docs&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio Nathan SERROR - version github/portfolio/docs/documentations",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;cassandra&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "cassandra"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\docs\documentations" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\docs" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\diplômes - certifications" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio" />
       <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio\Portfolio Nathan SERROR - version github" />
-      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR - version github\portfolio\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio\Portfolio Nathan SERROR - version github" />
@@ -153,7 +164,8 @@
       <workItem from="1693945278967" duration="1186000" />
       <workItem from="1694387441288" duration="499000" />
       <workItem from="1694464377390" duration="128000" />
-      <workItem from="1695746568258" duration="1542000" />
+      <workItem from="1695746568258" duration="1566000" />
+      <workItem from="1697979024592" duration="9081000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1688915976844</created>
@@ -302,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695746909683</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="first commit">
+      <created>1695749139972</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1695749139972</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
