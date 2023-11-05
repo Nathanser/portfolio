@@ -73,6 +73,30 @@
         logoutBtn.addEventListener("click", logout);
       </script>
 
+      <br>
+
+      <script src="https://moment.github.io/luxon/global/luxon.js"></script>
+      <script language="JavaScript">
+        document.write("<center><font color='#1FF5D1' size='3' face='arial' id='clockDisplay'>");
+
+        // Fonction pour mettre à jour l'affichage de l'horloge
+        function updateClock() {
+          const now = luxon.DateTime.local();
+          const dayOfWeek = now.setLocale("fr").toFormat('cccc'); // Obtenir le jour de la semaine
+          const capitalizedDayOfWeek = dayOfWeek.charAt(0).toUpperCase() + dayOfWeek.slice(1); // Mettre en majuscule la première lettre du jour
+          const formattedDate = capitalizedDayOfWeek + ', ' + now.toFormat('dd LLLL yyyy HH:mm:ss');
+          document.getElementById("clockDisplay").innerHTML = formattedDate;
+        }
+
+        // Mettre à jour l'horloge toutes les secondes
+        setInterval(updateClock, 1000); // Mettre à jour chaque seconde (1000 ms)
+
+        // Appeler la fonction initiale pour afficher l'heure actuelle
+        updateClock();
+
+        document.write("</font></center>");
+      </script>
+
       <img style="width: 40%" src="../portfolio/img/home%20page/photo-profile.JPG" alt="" class="img-fluid rounded-circle">
       <h1 class="text-light"><a href="stage.html">Nathan SERROR</a></h1>
       <div class="social-links mt-3 text-center">

@@ -153,7 +153,6 @@ h6 {
 }
 
 
-
 .nav-menu * {
   margin: 0;
   padding: 0;
@@ -180,10 +179,10 @@ h6 {
   display: flex;
   align-items: center;
   color: #a8a9b4;
-  padding: 12px 15px;
-  margin-bottom: 8px;
+  padding: 8px 15px;
+  margin-bottom: 4px;
   transition: 0.3s;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .nav-menu a i,
