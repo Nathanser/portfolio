@@ -4,6 +4,8 @@
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage/stage.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage/stage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +169,10 @@
       <workItem from="1699900533949" duration="3624000" />
       <workItem from="1700589942896" duration="239000" />
       <workItem from="1701073012540" duration="496000" />
-      <workItem from="1701169481847" duration="592000" />
+      <workItem from="1701169481847" duration="697000" />
+      <workItem from="1701212341430" duration="2632000" />
+      <workItem from="1701616188402" duration="83000" />
+      <workItem from="1701943076613" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1688915976844</created>
@@ -386,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701073285343</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="first commit">
+      <created>1701170170880</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1701170170880</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
