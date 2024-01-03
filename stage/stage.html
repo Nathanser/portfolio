@@ -80,10 +80,13 @@
       <script language="JavaScript">
         document.write("<center><font color='#ffffff' size='3' face='arial' id='clockDisplay'>");
 
+        // Définir la localisation en français pour les mois et jours
+        luxon.Settings.defaultLocale = 'fr';
+
         // Fonction pour mettre à jour l'affichage de l'horloge
         function updateClock() {
           const now = luxon.DateTime.local();
-          const dayOfWeek = now.setLocale("fr").toFormat('cccc'); // Obtenir le jour de la semaine
+          const dayOfWeek = now.toFormat('cccc'); // Obtenir le jour de la semaine
           const capitalizedDayOfWeek = dayOfWeek.charAt(0).toUpperCase() + dayOfWeek.slice(1); // Mettre en majuscule la première lettre du jour
           const formattedTime = now.toFormat('HH:mm:ss'); // Heure au format HH:mm:ss
           const formattedDate = capitalizedDayOfWeek + ', ' + now.toFormat('dd LLLL yyyy');
