@@ -4,6 +4,7 @@
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage/css/btn-download.css" beforeDir="false" afterPath="$PROJECT_DIR$/stage/css/btn-download.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stage/stage.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage/stage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +175,10 @@
       <workItem from="1701943076613" duration="1641000" />
       <workItem from="1702342181369" duration="921000" />
       <workItem from="1704317760699" duration="505000" />
-      <workItem from="1704892137584" duration="3329000" />
+      <workItem from="1704892137584" duration="4863000" />
+      <workItem from="1704962356409" duration="215000" />
+      <workItem from="1704963491733" duration="1074000" />
+      <workItem from="1704979285754" duration="700000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1688915976844</created>
@@ -428,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704318145108</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="first commit">
+      <created>1704895575208</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1704895575208</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

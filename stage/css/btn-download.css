@@ -7,6 +7,14 @@
   --success: #2F3545;
 }
 
+.button.dark2 {
+  --background: #242836;
+  --rectangle: #1C212E;
+  --arrow: #F5F9FF;
+  --text: #F5F9FF;
+  --success: #2F3545;
+}
+
 .button {
   --background: #275efe;
   --rectangle: #184fee;

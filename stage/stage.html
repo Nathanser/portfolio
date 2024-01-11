@@ -1025,6 +1025,33 @@
       <div class="section-title">
         <h2>Annexes</h2>
 
+        <div class="container-btn">
+          <link rel="stylesheet" href="css/btn-download.css">
+
+          <a id="downloadButton2" class="button dark2">
+            <ul>
+              <li>Mes notes de stage </li>
+              <li>Téléchargement</li>
+              <li>Ouvrez le document</li>
+            </ul>
+            <div>
+              <svg viewBox="0 0 24 24"></svg>
+            </div>
+          </a>
+        </div>
+
+        <script>
+          document.getElementById('downloadButton2').addEventListener('click', function(event) {
+            event.preventDefault();
+            var downloadLink = document.createElement('a');
+            downloadLink.href = '../portfolio/docs/Notes%20de%20stage%20FOLIATEAM.pdf';
+            downloadLink.download = 'Notes de stage FOLIATEAM';
+            downloadLink.click();
+          });
+        </script>
+
+
+
         <div style=" pointer-events: none" class="container-btn">
           <link rel="stylesheet" href="css/btn-download.css">
           <a id="downloadButton" class="button dark">
@@ -1039,23 +1066,6 @@
           </a>
           <i style="font-size: xx-large" class="bi bi-lock-fill"></i>
         </div>
-
-
-        <div style=" pointer-events: none" class="container-btn">
-          <link rel="stylesheet" href="css/btn-download.css">
-          <a id="downloadButton2" class="button dark">
-            <ul>
-              <li>Mes notes de stage </li>
-              <li>Téléchargement</li>
-              <li>Ouvrez le document</li>
-            </ul>
-            <div>
-              <svg viewBox="0 0 24 24"></svg>
-            </div>
-          </a>
-          <i style="font-size: xx-large" class="bi bi-lock-fill"></i>
-        </div>
-
 
 
         <script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js'></script>
