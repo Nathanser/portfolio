@@ -4,7 +4,8 @@
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage/css/btn-download.css" beforeDir="false" afterPath="$PROJECT_DIR$/stage/css/btn-download.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage/css/stage.css" beforeDir="false" afterPath="$PROJECT_DIR$/stage/css/stage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stage/stage.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage/stage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio Nathan SERROR - version github/portfolio/docs/documentations-pdf&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio Nathan SERROR - version github/portfolio/img/missions&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
@@ -63,11 +64,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\missions" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\docs\documentations-pdf" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\docs\documentations-img" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\diplômes - certifications" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\docs\documentations" />
-      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio\Portfolio Nathan SERROR - version github" />
@@ -178,7 +179,13 @@
       <workItem from="1704892137584" duration="4863000" />
       <workItem from="1704962356409" duration="215000" />
       <workItem from="1704963491733" duration="1074000" />
-      <workItem from="1704979285754" duration="700000" />
+      <workItem from="1704979285754" duration="1938000" />
+      <workItem from="1704990635907" duration="348000" />
+      <workItem from="1705310909660" duration="992000" />
+      <workItem from="1705322435684" duration="8943000" />
+      <workItem from="1705584499351" duration="789000" />
+      <workItem from="1705678506728" duration="2168000" />
+      <workItem from="1705796269337" duration="6617000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1688915976844</created>
@@ -439,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704895575208</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="first commit">
+      <created>1704980233764</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1704980233764</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
