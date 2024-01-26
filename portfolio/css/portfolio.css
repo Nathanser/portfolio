@@ -1472,8 +1472,6 @@ html {
 # Stage box effect
 --------------------------------------------------------------*/
 
-
-
 figure {
   float: left;
   height: 6em;
@@ -1519,11 +1517,9 @@ figure:hover figcaption {
 
 }
 
-
 h3 {
   font-weight: bold;
 }
-
 
 .figure-container {
   position: relative;
@@ -1531,7 +1527,6 @@ h3 {
   display: flex;
   align-items: center;
 }
-
 
 .text-container {
   position: absolute;
@@ -1566,5 +1561,48 @@ h3 {
 
 
 
+/*--------------------------------------------------------------
+# Scroll btn effect
+--------------------------------------------------------------*/
+
+
+.img-scroll {
+  height: 100px;
+  width: auto;
+  filter: invert(1);
+}
+
+.arrow-scroll {
+  position: absolute;
+  text-align: center;
+  right: 0;
+  left: 20%;
+  top: 80%;
+}
+.arrow-scroll__wrap {
+  display: inline-block;
+  transition: all ease-in-out 0.2s;
+  cursor: pointer;
+}
+.arrow-scroll__wrap:hover {
+  opacity: 0.5;
+}
+.arrow-scroll__wrap_animated {
+  animation: arrow-scroll 1.7s infinite ease;
+}
+@keyframes arrow-scroll {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-7px);
+  }
+  55% {
+    transform: translateY(-7px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
 
 
