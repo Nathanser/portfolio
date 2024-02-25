@@ -166,7 +166,13 @@
 .maki dt, .maki dd, .maki a {
     background: #c55353;
 }
-.maki a:hover { background: #ffbb00; }
+.maki a:hover { background: #ffbb00;
+    cursor: pointer;
+
+}
+
+
+
 
 
 .center {

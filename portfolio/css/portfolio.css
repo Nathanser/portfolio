@@ -696,6 +696,19 @@ section {
   width: 100%;
 }
 
+
+
+
+.portfolio-details-slider img:hover {
+  cursor: grab;
+}
+
+.portfolio-details-slider img:active {
+  cursor: grabbing;
+}
+
+
+
 .portfolio-details .portfolio-details-slider .swiper-pagination {
   margin-top: 20px;
   position: relative;
@@ -814,12 +827,20 @@ section {
   height: 500px;
 }
 
+.testimonials-slider:hover {
+  cursor: grab;
+}
+
+.testimonials-slider:active {
+  cursor: grabbing;
+}
+
+
 .testimonials .testimonial-item {
   box-sizing: content-box;
   text-align: center;
   min-height: 100px;
   padding-top: 10px;
-
 }
 
 .testimonials .testimonial-item .testimonial-img {
@@ -1380,6 +1401,13 @@ html {
   -webkit-transform: rotateX(0deg) rotateY(0deg);
   -moz-transform: rotateX(0deg) rotateY(0deg);
 }
+
+
+.panel:hover {
+  cursor: pointer;
+}
+
+
 .box1 {
   background-image: linear-gradient(to top, rgba(26, 39, 47, 0.78), rgb(90, 177, 189));
   width: 450px;
