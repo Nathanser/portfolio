@@ -4,7 +4,9 @@
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/css/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/docs/Attestation .pdf" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/docs/Attestation Stage 2023.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projets/projet-HelpORT.html" beforeDir="false" afterPath="$PROJECT_DIR$/projets/projet-HelpORT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projets/projet-smartcity.html" beforeDir="false" afterPath="$PROJECT_DIR$/projets/projet-smartcity.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stage/stage.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage/stage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio Nathan SERROR - version github/projets/docs-projet",
+    "last_opened_file_path": "C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio Nathan SERROR - version github/portfolio/docs",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -68,18 +70,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\projets\docs-projet" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\projets\img" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\projets" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\diplômes - certifications" />
-      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\docs" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\projets" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\projets\img" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\diplômes - certifications" />
       <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio\Portfolio Nathan SERROR - version github" />
-      <recent name="C:\Users\natha\Nouveau dossier\STAGE\Portfolio Nathan SERROR - version github\stage" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -229,14 +231,9 @@
       <workItem from="1709056904549" duration="46000" />
       <workItem from="1709199892099" duration="2417000" />
       <workItem from="1709222514497" duration="6000" />
-      <workItem from="1709464359486" duration="18544000" />
-    </task>
-    <task id="LOCAL-00012" summary="first commit">
-      <created>1693774713189</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1693774713189</updated>
+      <workItem from="1709464359486" duration="18573000" />
+      <workItem from="1709486594742" duration="2314000" />
+      <workItem from="1709492481643" duration="361000" />
     </task>
     <task id="LOCAL-00013" summary="first commit">
       <created>1693775776190</created>
@@ -574,7 +571,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709056282689</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="first commit">
+      <created>1709483690529</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1709483690529</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

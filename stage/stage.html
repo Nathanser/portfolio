@@ -532,7 +532,7 @@
         <h3 style="color: #173b6c"><b><span class="alinea-text"> B - </span> Fonctionnement des services</b></h3><br>
         <h4 style="margin-left: 80px"> <b>1. Le rôle des différentes services</b></h4> <br>
         <p style="margin-left: 50px" align="justify">
-          <span class="alinea-text">Voici</span> les 3 Services de l'entreprise dans lesquels j'ai pu réaliser mon stage :</p>
+          <span class="alinea-text">Voici</span> les 3 services de l'entreprise dans lesquels j'ai pu réaliser quelques missions durant mon stage :</p>
         <div class="container services">
           <div class="section-title">
             <br><br>
@@ -580,7 +580,7 @@
         <br>
 
 
-        <h4 style="margin-left: 80px"> <b>2. Les outils et logiciels utilisés dans l'entreprise et mis à ma disposition lors du stage</b></h4> <br>
+        <h4 style="margin-left: 80px"> <b>2. Les outils et logiciels utilisés dans l'entreprise et dont certains ont été mis à ma disposition lors du stage</b></h4> <br>
 
 
 
@@ -778,11 +778,11 @@
           <h3 style="color: #173b6c;"><b><span class="alinea-text">A - Les missions et activités effectuées au cours de mon stage en 1<sup>re</sup> année de BTS (2023)</span></b></h3><br>
           <p style="margin-left: 50px" align="justify">
             <span class="alinea-text">Les</span> missions réalisées au cours de mon stage au sein de l'entreprise FOLIATEAM ont été
-            riches et diversifiées, ce qui a rendu cette expérience particulièrement enrichissante.
+            riches et diversifiées, ce qui a rendu cette expérience particulièrement intéressante.
             Pour des raisons de confidentialité et de sécurité, je ne suis pas en mesure de pouvoir
             fournir des photos pour certaines des interventions clientes réalisées lors des missions de mon stage.
             <br>
-            Je vous invite à découvrir les différentes missions et activités réalisées ci-dessous.
+            Je vous invite à découvrir ci-dessous les différentes missions et activités réalisées :
           </p>
           <br>
 
@@ -808,8 +808,8 @@
                           <h4 style="text-align: center"><i class="icofont-network"></i><b> Procédure configuration de PC :</b> </h4>
                           <br>
                           <h6 align="justify">
-                            <span class="alinea-text">Ma </span> première mission a été de savoir comment configurer un ordinateur sans OS
-                            et de l'intégrer au domaine de l'entreprise tout en installant les sécurités demandées.
+                            <span class="alinea-text">Ma </span> première mission a été de configurer des ordinateurs sans OS
+                            et de les intégrer au domaine de l'entreprise tout en installant les sécurités demandées.
                             Pour cela j'ai été accompagné du Service SI interne.<br>
                             Par la suite j'ai été capable de configurer une dizaine de PC afin qu'il soit opérationnel pour les futurs utilisateurs.</h6>
                           <br>
@@ -1100,11 +1100,11 @@
           <h3 style="color: #173b6c;"><b><span class="alinea-text">B - Les missions et activités effectuées au cours de mon stage en 2<sup>ème</sup> année de BTS (2024)</span></b></h3><br>
           <p style="margin-left: 50px" align="justify">
             <span class="alinea-text">Les</span> missions réalisées au cours de mon stage au sein de l'entreprise FOLIATEAM étaient
-            riches et diversifiées, ce qui a rendu cette expérience particulièrement enrichissante.
+            riches et diversifiées, ce qui a rendu cette expérience particulièrement intéressante.
             Pour des raisons de confidentialité et de sécurité, je ne suis pas en mesure de pouvoir
             fournir des photos pour certaines des interventions clientes réalisées lors des missions de mon stage.
             <br>
-            Je vous invite à découvrir les différentes missions et activités réalisées ci-dessous.
+            Je vous invite à découvrir ci-dessous les différentes missions et activités réalisées :
           </p>
           <br>
           <div class="container">
@@ -1792,11 +1792,12 @@
         </script>
 
 
-        <div style=" pointer-events: none" class="container-btn">
+        <div class="container-btn">
           <link rel="stylesheet" href="css/btn-download.css">
-          <a id="btn_2" class="button dark">
+
+          <a id="btn_2" class="button dark2">
             <ul>
-              <li>Attestation de stage n°1 - (2023)</li>
+              <li>Attestation de stage n°1 (2023)</li>
               <li>Téléchargement</li>
               <li>Ouvrez le document</li>
             </ul>
@@ -1804,23 +1805,42 @@
               <svg viewBox="0 0 24 24"></svg>
             </div>
           </a>
-          <i style="font-size: xx-large" class="bi bi-lock-fill"></i>
         </div>
 
-        <div style=" pointer-events: none" class="container-btn">
+        <script>
+          document.getElementById('btn_2').addEventListener('click', function(event) {
+            event.preventDefault();
+            var downloadLink = document.createElement('a');
+            downloadLink.href = '../portfolio/docs/Attestation%20Stage%202023.pdf';
+            downloadLink.download = 'Attestation de Stage Nathan SERROR (2023)';
+            downloadLink.click();
+          });
+        </script>
+
+        <div class="container-btn">
           <link rel="stylesheet" href="css/btn-download.css">
-          <a id="btn_3" class="button dark">
-            <ul>
-              <li>Attestation de stage n°2 - (2024)</li>
-              <li>Téléchargement</li>
-              <li>Ouvrez le document</li>
-            </ul>
-            <div>
-              <svg viewBox="0 0 24 24"></svg>
-            </div>
-          </a>
-          <i style="font-size: xx-large" class="bi bi-lock-fill"></i>
-        </div>
+
+        <a id="btn_3" class="button dark2">
+          <ul>
+            <li>Attestation de stage n°2 (2024)</li>
+            <li>Téléchargement</li>
+            <li>Ouvrez le document</li>
+          </ul>
+          <div>
+            <svg viewBox="0 0 24 24"></svg>
+          </div>
+        </a>
+      </div>
+
+        <script>
+          document.getElementById('btn_3').addEventListener('click', function(event) {
+            event.preventDefault();
+            var downloadLink = document.createElement('a');
+            downloadLink.href = '../portfolio/docs/Attestation%20Stage%202024.pdf';
+            downloadLink.download = 'Attestation de Stage Nathan SERROR (2024)';
+            downloadLink.click();
+          });
+        </script>
 
 
 
