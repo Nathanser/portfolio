@@ -150,7 +150,6 @@
         <li><a href="#skills" class="nav-link scrollto"><i class='bx bx-desktop'></i> <span>Compétences</span></a></li>
         <li><a href="#projets" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Projets</span></a></li>
         <li><a href="#portfolio" class="nav-link scrollto"><i class='bx bxs-school'></i> <span>BTS SIO</span></a></li>
-        <li><a href="#veille" class="nav-link scrollto"><i class='bx bx-news'></i> <span>Veille Technologique</span></a></li>
         <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
       </ul>
     </nav>
@@ -1101,7 +1100,7 @@
 
 
   <!-- ======= BTS SIO Section ======= -->
-  <section style="background: linear-gradient(to top, #bdcdd0, #ffffff)" id="portfolio" class="portfolio section-bg">
+  <section style="background: linear-gradient(to top, #bdcdd0, #ffffff); height: 1080px" id="portfolio" class="portfolio section-bg">
     <div class="container">
       <div class="section-title">
         <h2>Qu'est ce que le BTS SIO 🎓 ?</h2>
@@ -1206,96 +1205,96 @@
         </div>
       </div>
     </div>
-
-    <!-- ======= Annexes Section ======= -->
-    <section>
-      <div class="container">
-        <div class="section-title">
-          <h2>Annexes</h2>
-          <div class="container-btn">
-            <link rel="stylesheet" href="stage/css/btn-download.css">
-            <a id="btn_1" class="button dark2">
-              <ul>
-                <li>Tableau de Synthèse - Épreuve E4</li>
-                <li>Téléchargement</li>
-                <li>Ouvrez le document</li>
-              </ul>
-              <div>
-                <svg viewBox="0 0 24 24"></svg>
-              </div>
-            </a>
-          </div>
-          <script>
-            document.getElementById('btn_1').addEventListener('click', function(event) {
-              event.preventDefault();
-              let downloadLink = document.createElement('a');
-              downloadLink.href = 'portfolio/docs/Tableau%20de%20synthèse%20Nathan%20SERROR%20-%20Epreuve%20E4%20-%20BTS%20SIO%202024.pdf';
-              downloadLink.download = 'Tableau de Synthèse Nathan SERROR - Épreuve E4 - BTS SIO 2024';
-              downloadLink.click();
-            });
-          </script>
-
-          <div class="container-btn">
-            <link rel="stylesheet" href="stage/css/btn-download.css">
-
-            <a id="btn_2" class="button dark2">
-              <ul>
-                <li>Attestation de stage n°1 (2023)</li>
-                <li>Téléchargement</li>
-                <li>Ouvrez le document</li>
-              </ul>
-              <div>
-                <svg viewBox="0 0 24 24"></svg>
-              </div>
-            </a>
-          </div>
-
-          <script>
-            document.getElementById('btn_2').addEventListener('click', function(event) {
-              event.preventDefault();
-              var downloadLink = document.createElement('a');
-              downloadLink.href = 'portfolio/docs/Attestation%20Stage%202023.pdf';
-              downloadLink.download = 'Attestation de Stage Nathan SERROR (2023)';
-              downloadLink.click();
-            });
-          </script>
-
-          <div class="container-btn">
-            <link rel="stylesheet" href="stage/css/btn-download.css">
-
-            <a id="btn_3" class="button dark2">
-              <ul>
-                <li>Attestation de stage n°2 (2024)</li>
-                <li>Téléchargement</li>
-                <li>Ouvrez le document</li>
-              </ul>
-              <div>
-                <svg viewBox="0 0 24 24"></svg>
-              </div>
-            </a>
-          </div>
-
-          <script>
-            document.getElementById('btn_3').addEventListener('click', function(event) {
-              event.preventDefault();
-              var downloadLink = document.createElement('a');
-              downloadLink.href = 'portfolio/docs/Attestation%20Stage%202024.pdf';
-              downloadLink.download = 'Attestation de Stage Nathan SERROR (2024)';
-              downloadLink.click();
-            });
-          </script>
-
-          <script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js'></script>
-          <script  src="stage/js/btn-download.js"></script>
-        </div>
-      </div>
-    </section>
-    <!-- Fin Annexes Section -->
   </section>
   <!-- FIn BTS SIO Section -->
 
+  <!-- ======= Annexes Section ======= -->
+  <section style="background: linear-gradient(to bottom, #bdcdd0, #ffffff)">
+    <div class="container">
+      <div class="section-title">
+        <h2>Annexes</h2>
+        <div class="container-btn">
+          <link rel="stylesheet" href="stage/css/btn-download.css">
+          <a id="btn_1" class="button dark2">
+            <ul>
+              <li>Tableau de Synthèse - Épreuve E4</li>
+              <li>Téléchargement</li>
+              <li>Ouvrez le document</li>
+            </ul>
+            <div>
+              <svg viewBox="0 0 24 24"></svg>
+            </div>
+          </a>
+        </div>
+        <script>
+          document.getElementById('btn_1').addEventListener('click', function(event) {
+            event.preventDefault();
+            let downloadLink = document.createElement('a');
+            downloadLink.href = 'portfolio/docs/Tableau%20de%20synthèse%20Nathan%20SERROR%20-%20Epreuve%20E4%20-%20BTS%20SIO%202024.pdf';
+            downloadLink.download = 'Tableau de Synthèse Nathan SERROR - Épreuve E4 - BTS SIO 2024';
+            downloadLink.click();
+          });
+        </script>
+
+        <div class="container-btn">
+          <link rel="stylesheet" href="stage/css/btn-download.css">
+
+          <a id="btn_2" class="button dark2">
+            <ul>
+              <li>Attestation de stage n°1 (2023)</li>
+              <li>Téléchargement</li>
+              <li>Ouvrez le document</li>
+            </ul>
+            <div>
+              <svg viewBox="0 0 24 24"></svg>
+            </div>
+          </a>
+        </div>
+
+        <script>
+          document.getElementById('btn_2').addEventListener('click', function(event) {
+            event.preventDefault();
+            var downloadLink = document.createElement('a');
+            downloadLink.href = 'portfolio/docs/Attestation%20Stage%202023.pdf';
+            downloadLink.download = 'Attestation de Stage Nathan SERROR (2023)';
+            downloadLink.click();
+          });
+        </script>
+
+        <div class="container-btn">
+          <link rel="stylesheet" href="stage/css/btn-download.css">
+
+          <a id="btn_3" class="button dark2">
+            <ul>
+              <li>Attestation de stage n°2 (2024)</li>
+              <li>Téléchargement</li>
+              <li>Ouvrez le document</li>
+            </ul>
+            <div>
+              <svg viewBox="0 0 24 24"></svg>
+            </div>
+          </a>
+        </div>
+
+        <script>
+          document.getElementById('btn_3').addEventListener('click', function(event) {
+            event.preventDefault();
+            var downloadLink = document.createElement('a');
+            downloadLink.href = 'portfolio/docs/Attestation%20Stage%202024.pdf';
+            downloadLink.download = 'Attestation de Stage Nathan SERROR (2024)';
+            downloadLink.click();
+          });
+        </script>
+
+        <script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js'></script>
+        <script  src="stage/js/btn-download.js"></script>
+      </div>
+    </div>
+  </section>
+  <!-- Fin Annexes Section -->
+
   <!-- ======= Contact Section ======= -->
-  <section  style=" background: linear-gradient(to bottom, #bdcdd0, #ffffff);" id="contact" class="contact">
+  <section  style=" background: linear-gradient(to top, #bdcdd0, #ffffff);" id="contact" class="contact">
     <div class="container">
       <div class="section-title">
         <h2>Contact</h2>
