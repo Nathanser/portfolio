@@ -128,13 +128,56 @@
         <li><a href="../index.html#stages" class="nav-link scrollto"><i class='bx bxs-briefcase'></i> <span>Stages</span></a></li>
         <li><a href="../index.html#skills" class="nav-link scrollto"><i class='bx bx-desktop'></i> <span>Compétences</span></a></li>
         <li><a href="../index.html#projets" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Projets</span></a></li>
-        <li><a href="../index.html#portfolio" class="nav-link scrollto"><i class='bx bxs-school'></i> <span>BTS SIO</span></a></li>
-        <li><a href="../index.html#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
+        <li><a href="../index.html#portfolio" class="nav-link scrollto"><i class="bx bxs-school"></i> <span>BTS SIO</span></a></li>
+        <li class="bts-sio">
+          <a href="../index.html#epreuve" class="nav-link scrollto"><i class="bx bx-book-content"></i><span>Épreuves</span></a>
+          <ul class="sub-menu">
+            <li style="margin-left:33px"><a href="epreuve-E4.html" class="e1-link">Épreuve E4</a></li>
+            <li style="margin-left:33px"><a href="epreuve-E5.html" class="e2-link">Épreuve E5</a></li>
+          </ul>
+        </li>
+        <li><a href="../#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
       </ul>
+
+      <script>
+        document.addEventListener("DOMContentLoaded", function() {
+          var btsSio = document.querySelector('#navbar .bts-sio');
+          btsSio.addEventListener('click', function(e) {
+            e.preventDefault();
+            this.classList.toggle('active');
+            var submenu = this.querySelector('.sub-menu');
+            submenu.classList.toggle('active');
+            // Ajoutez ou retirez une classe spécifique pour ajuster la hauteur du padding
+            if (submenu.classList.contains('active')) {
+              document.getElementById('navbar').classList.add('submenu-open');
+            } else {
+              document.getElementById('navbar').classList.remove('submenu-open');
+            }
+          });
+
+          // Gestionnaire d'événements pour E1
+          var e1Link = document.querySelector('.e1-link');
+          e1Link.addEventListener('click', function(e) {
+            e.stopPropagation();
+            window.location.href = "epreuve-E4.html";
+          });
+
+          // Gestionnaire d'événements pour E2
+          var e2Link = document.querySelector('.e2-link');
+          e2Link.addEventListener('click', function(e) {
+            e.stopPropagation();
+            window.location.href = "epreuve-E5.html";
+          });
+        });
+
+      </script>
+
+
     </nav>
   </div>
 </header>
 <!-- Fin Header -->
+
 
 
 <main id="main">
