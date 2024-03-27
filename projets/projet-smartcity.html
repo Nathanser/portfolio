@@ -264,29 +264,7 @@
       <div class="section-title">
         <h2>Documents annexes</h2>
 
-        <div class="container-btn">
-          <link rel="stylesheet" href="../stage/css/btn-download.css">
-          <a id="btn_1" class="button dark2">
-            <ul>
-              <li>Smart City (pkt)</li>
-              <li>Téléchargement</li>
-              <li>Ouvrez le document</li>
-            </ul>
-            <div>
-              <svg viewBox="0 0 24 24"></svg>
-            </div>
-          </a>
-        </div>
 
-        <script>
-          document.getElementById('btn_1').addEventListener('click', function(event) {
-            event.preventDefault();
-            let downloadLink = document.createElement('a');
-            downloadLink.href = 'docs-projet/Smart%20City.pkt';
-            downloadLink.download = 'Smart City.pkt';
-            downloadLink.click();
-          });
-        </script>
 
         <div class="container-btn">
           <link rel="stylesheet" href="../stage/css/btn-download.css">
@@ -311,6 +289,32 @@
             downloadLink.click();
           });
         </script>
+
+
+        <div class="container-btn">
+          <link rel="stylesheet" href="../stage/css/btn-download.css">
+          <a id="btn_1" class="button dark2">
+            <ul>
+              <li>Smart City (pkt)</li>
+              <li>Téléchargement</li>
+              <li>Ouvrez le document</li>
+            </ul>
+            <div>
+              <svg viewBox="0 0 24 24"></svg>
+            </div>
+          </a>
+        </div>
+
+        <script>
+          document.getElementById('btn_1').addEventListener('click', function(event) {
+            event.preventDefault();
+            let downloadLink = document.createElement('a');
+            downloadLink.href = 'docs-projet/Smart%20City.pkt';
+            downloadLink.download = 'Smart City.pkt';
+            downloadLink.click();
+          });
+        </script>
+
         <script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js'></script>
         <script  src="../stage/js/btn-download.js"></script>
       </div>
