@@ -127,10 +127,50 @@
         <li><a href="../index.html#resume" class="nav-link scrollto"><i class="bx bxs-graduation"></i> <span>Parcours</span></a></li>
         <li><a href="../index.html#stages" class="nav-link scrollto"><i class='bx bxs-briefcase'></i> <span>Stages</span></a></li>
         <li><a href="../index.html#skills" class="nav-link scrollto"><i class='bx bx-desktop'></i> <span>Compétences</span></a></li>
-        <li><a href="../index.html#projets" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Projets</span></a></li>
-        <li><a href="../index.html#portfolio" class="nav-link scrollto"><i class='bx bxs-school'></i> <span>BTS SIO</span></a></li>
-        <li><a href="../index.html#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
+        <li><a href="../index.html#projets" class="nav-link scrollto"><i class="bx bx-code-alt"></i> <span>Projets</span></a></li>
+        <li><a href="../index.html#portfolio" class="nav-link scrollto"><i class="bx bxs-school"></i> <span>BTS SIO</span></a></li>
+        <li class="bts-sio">
+          <a href="../index.html#epreuve" class="nav-link scrollto"><i class="bx bx-book-content"></i><span>Épreuves</span></a>
+          <ul class="sub-menu">
+            <li style="margin-left:33px"><a href="../projets/epreuve-E4.html" class="e1-link">Épreuve E4</a></li>
+            <li style="margin-left:33px"><a href="../projets/epreuve-E5.html" class="e2-link">Épreuve E5</a></li>
+          </ul>
+        </li>
+        <li><a href="../#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
       </ul>
+
+      <script>
+        document.addEventListener("DOMContentLoaded", function() {
+          var btsSio = document.querySelector('#navbar .bts-sio');
+          btsSio.addEventListener('click', function(e) {
+            e.preventDefault();
+            this.classList.toggle('active');
+            var submenu = this.querySelector('.sub-menu');
+            submenu.classList.toggle('active');
+            // Ajoutez ou retirez une classe spécifique pour ajuster la hauteur du padding
+            if (submenu.classList.contains('active')) {
+              document.getElementById('navbar').classList.add('submenu-open');
+            } else {
+              document.getElementById('navbar').classList.remove('submenu-open');
+            }
+          });
+
+          // Gestionnaire d'événements pour E1
+          var e1Link = document.querySelector('.e1-link');
+          e1Link.addEventListener('click', function(e) {
+            e.stopPropagation();
+            window.location.href = "epreuve-E4.html";
+          });
+
+          // Gestionnaire d'événements pour E2
+          var e2Link = document.querySelector('.e2-link');
+          e2Link.addEventListener('click', function(e) {
+            e.stopPropagation();
+            window.location.href = "epreuve-E5.html";
+          });
+        });
+
+      </script>
     </nav>
   </div>
 </header>
@@ -213,10 +253,10 @@
     <div class="fixed-section-wrapper">
       <h2 style="padding-right: 3%;text-align: center">STAGE BTS SIO - GROUPE FOLIATEAM</h2>
       <nav class="nav">
-        <a href="#about" class="nav-item is-active" active-color="orange">Entreprise</a>
-        <a href="#resume" class="nav-item" active-color="orange">Stages</a>
-        <a href="#skills" class="nav-item" active-color="orange">Missions</a>
-        <a href="#portfolio" class="nav-item" active-color="orange">Conclusion</a>
+        <a href="#entreprise" class="nav-item is-active" active-color="orange">Entreprise</a>
+        <a href="#stage" class="nav-item" active-color="orange">Stages</a>
+        <a href="#missions" class="nav-item" active-color="orange">Missions</a>
+        <a href="#conclusion" class="nav-item" active-color="orange">Conclusion</a>
         <span class="nav-indicator"></span>
       </nav>
       <script  src="js/stage.js"></script>
@@ -273,7 +313,7 @@
     </div>
   </div>
 
-  <section id="about">
+  <section id="entreprise">
   </section>
   <!-- Fin Objectif Section -->
 
@@ -453,7 +493,7 @@
 
 
   <!-- ======= Stage Section ======= -->
-  <section  style="background: linear-gradient(180deg, rgba(189,205,208,1) 0%, rgba(255,255,255,1) 30%);padding-top: 110px" id="resume" class="resume">
+  <section  style="background: linear-gradient(180deg, rgba(189,205,208,1) 0%, rgba(255,255,255,1) 30%);padding-top: 110px" id="stage" class="resume">
     <div class="container">
       <div class="section-title">
         <h2>II - Le cadre du stage </h2>
@@ -768,7 +808,7 @@
 
 
   <!-- ======= Missions Section ======= -->
-  <section style="background: linear-gradient(to top, #bdcdd0, #ffffff);padding-top: 110px;height: 3820px" id="skills">
+  <section style="background: linear-gradient(to top, #bdcdd0, #ffffff);padding-top: 110px;height: 3820px" id="missions">
     <div class="container">
       <div class="section-title">
         <h2>Les Missions et Activités professionnelles effectuées</h2>
@@ -1719,7 +1759,7 @@
 
 
   <!-- ======= Conclusion Section ======= -->
-  <section style="background: linear-gradient(180deg, rgba(189,205,208,1) 25%, rgba(255,255,255,1) 100%);padding-top: 110px" id="portfolio" class="portfolio section-bg">
+  <section style="background: linear-gradient(180deg, rgba(189,205,208,1) 25%, rgba(255,255,255,1) 100%);padding-top: 110px" id="conclusion" class="portfolio section-bg">
     <div class="container">
       <div class="section-title">
         <h2>Conclusion</h2>
@@ -1765,10 +1805,14 @@
       <div class="section-title">
         <h2>Annexes</h2>
 
-        <div class="container-btn">
+
+        <!-- Inclure Bootstrap CSS -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+
+        <div style="pointer-events: none" class="container-btn">
           <link rel="stylesheet" href="css/btn-download.css">
 
-          <a id="btn_1" class="button dark2">
+          <a id="btn_1" class="button dark disabled">
             <ul>
               <li>Mes notes de stage </li>
               <li>Téléchargement</li>
@@ -1778,23 +1822,15 @@
               <svg viewBox="0 0 24 24"></svg>
             </div>
           </a>
+          <i class="bi bi-lock-fill fs-3"></i>
         </div>
 
-        <script>
-          document.getElementById('btn_1').addEventListener('click', function(event) {
-            event.preventDefault();
-            var downloadLink = document.createElement('a');
-            downloadLink.href = '../portfolio/docs/Notes%20de%20stage%20FOLIATEAM.pdf';
-            downloadLink.download = 'Notes de stage FOLIATEAM';
-            downloadLink.click();
-          });
-        </script>
 
 
-        <div class="container-btn">
+        <div style="pointer-events: none" class="container-btn">
           <link rel="stylesheet" href="css/btn-download.css">
 
-          <a id="btn_2" class="button dark2">
+          <a id="btn_2" class="button dark">
             <ul>
               <li>Attestation de stage n°1 (2023)</li>
               <li>Téléchargement</li>
@@ -1804,22 +1840,14 @@
               <svg viewBox="0 0 24 24"></svg>
             </div>
           </a>
+          <i class="bi bi-lock-fill fs-3"></i>
         </div>
 
-        <script>
-          document.getElementById('btn_2').addEventListener('click', function(event) {
-            event.preventDefault();
-            var downloadLink = document.createElement('a');
-            downloadLink.href = '../portfolio/docs/Attestation%20Stage%202023.pdf';
-            downloadLink.download = 'Attestation de Stage Nathan SERROR (2023)';
-            downloadLink.click();
-          });
-        </script>
 
-        <div class="container-btn">
+        <div style="pointer-events: none" class="container-btn">
           <link rel="stylesheet" href="css/btn-download.css">
 
-        <a id="btn_3" class="button dark2">
+        <a id="btn_3" class="button dark">
           <ul>
             <li>Attestation de stage n°2 (2024)</li>
             <li>Téléchargement</li>
@@ -1829,17 +1857,8 @@
             <svg viewBox="0 0 24 24"></svg>
           </div>
         </a>
+          <i class="bi bi-lock-fill fs-3"></i>
       </div>
-
-        <script>
-          document.getElementById('btn_3').addEventListener('click', function(event) {
-            event.preventDefault();
-            var downloadLink = document.createElement('a');
-            downloadLink.href = '../portfolio/docs/Attestation%20Stage%202024.pdf';
-            downloadLink.download = 'Attestation de Stage Nathan SERROR (2024)';
-            downloadLink.click();
-          });
-        </script>
 
 
 

@@ -166,6 +166,12 @@ h6 {
   white-space: nowrap;
 }
 
+@media screen and (max-height: 695px) {
+  .nav-menu.navbar {
+    padding-bottom: 120px; /* Changer le padding-bottom */
+  }
+}
+
 
 @media screen and (min-width: 1536px) {
   .nav-menu  {

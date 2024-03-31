@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/Portfolio Nathan SERROR - version github.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Portfolio Nathan SERROR - version github.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/css/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/css/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projets/epreuve-E4.html" beforeDir="false" afterPath="$PROJECT_DIR$/projets/epreuve-E4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage/stage.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage/stage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,14 +258,8 @@
       <workItem from="1711400864349" duration="255000" />
       <workItem from="1711451850414" duration="503000" />
       <workItem from="1711537188854" duration="355000" />
-      <workItem from="1711616149482" duration="732000" />
-    </task>
-    <task id="LOCAL-00030" summary="first commit">
-      <created>1699914508645</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1699914508645</updated>
+      <workItem from="1711616149482" duration="946000" />
+      <workItem from="1711845779283" duration="3188000" />
     </task>
     <task id="LOCAL-00031" summary="first commit">
       <created>1701073285343</created>
@@ -598,7 +597,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711537346240</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="first commit">
+      <created>1711616965723</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1711616965723</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
