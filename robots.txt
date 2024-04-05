@@ -1,5 +1,9 @@
 User-agent: *
+Disallow: /portfolio/docs
 Disallow: /portfolio/img/
 Disallow: /portfolio/docs
+Disallow: /portfolio/img/
 Disallow: /projets/img
+Disallow: /projets/img
+
 
