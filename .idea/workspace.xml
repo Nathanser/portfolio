@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/img/home page/icon-portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/icon-portfolio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projets/epreuve-E4.html" beforeDir="false" afterPath="$PROJECT_DIR$/projets/epreuve-E4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projets/epreuve-E5.html" beforeDir="false" afterPath="$PROJECT_DIR$/projets/epreuve-E5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projets/projet-HelpORT.html" beforeDir="false" afterPath="$PROJECT_DIR$/projets/projet-HelpORT.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projets/projet-portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/projets/projet-portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projets/projet-smartcity.html" beforeDir="false" afterPath="$PROJECT_DIR$/projets/projet-smartcity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage/stage.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage/stage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,14 +255,7 @@
       <workItem from="1711537188854" duration="355000" />
       <workItem from="1711616149482" duration="946000" />
       <workItem from="1711845779283" duration="3373000" />
-      <workItem from="1712324472353" duration="1010000" />
-    </task>
-    <task id="LOCAL-00032" summary="first commit">
-      <created>1701170170880</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1701170170880</updated>
+      <workItem from="1712324472353" duration="1635000" />
     </task>
     <task id="LOCAL-00033" summary="first commit">
       <created>1701944684399</created>
@@ -609,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711849898668</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="first commit">
+      <created>1712327387187</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1712327387187</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
