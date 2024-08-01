@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio Nathan SERROR - version github/portfolio/img/diplômes - certifications&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio Nathan SERROR - version github/portfolio/docs&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
@@ -66,8 +65,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\diplômes - certifications" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\docs" />
+      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\diplômes - certifications" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\home page" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\projets\img" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio" />
@@ -272,13 +271,8 @@
       <workItem from="1719476975485" duration="279000" />
       <workItem from="1719500849661" duration="1026000" />
       <workItem from="1720012569490" duration="746000" />
-    </task>
-    <task id="LOCAL-00035" summary="first commit">
-      <created>1702343076506</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1702343076506</updated>
+      <workItem from="1721918447258" duration="174000" />
+      <workItem from="1722287833934" duration="7000" />
     </task>
     <task id="LOCAL-00036" summary="first commit">
       <created>1704318145108</created>
@@ -616,7 +610,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714597765877</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="first commit">
+      <created>1721918516605</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1721918516605</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
