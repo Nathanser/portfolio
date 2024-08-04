@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7a38708d-a84e-4843-9f6a-1d0c94cf34b3" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,21 +276,7 @@
       <workItem from="1722287833934" duration="7000" />
       <workItem from="1722503828400" duration="41000" />
       <workItem from="1722790704452" duration="337000" />
-      <workItem from="1722791147885" duration="350000" />
-    </task>
-    <task id="LOCAL-00037" summary="first commit">
-      <created>1704895575208</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1704895575208</updated>
-    </task>
-    <task id="LOCAL-00038" summary="first commit">
-      <created>1704980233764</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1704980233764</updated>
+      <workItem from="1722791147885" duration="1004000" />
     </task>
     <task id="LOCAL-00039" summary="first commit">
       <created>1705803177923</created>
@@ -620,7 +607,21 @@
       <option name="project" value="LOCAL" />
       <updated>1722503856207</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="first commit">
+      <created>1722791656285</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1722791656286</updated>
+    </task>
+    <task id="LOCAL-00087" summary="first commit">
+      <created>1722791665418</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1722791665418</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
