@@ -28,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Nathanser"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nathanser&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Nathanser/portfolio.git",
-    "accountId": "f801e062-6ccd-4423-a8dc-0e11e462e771"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nathanser/portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;f801e062-6ccd-4423-a8dc-0e11e462e771&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/portfolio/css/portfolio.css" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/stage/stage.html" root0="FORCE_HIGHLIGHTING" />
@@ -52,9 +52,9 @@
     <option name="selectedTabId" value="CurrentFile" />
     <option name="sortByName" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2Qp5454VNR4fJvFdHY6neOcWvPs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -66,11 +66,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.admin.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.login.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/natha/Nouveau dossier/DEV-site/Enzo ALUZE",
+    "last_opened_file_path": "C:/Users/natha/Nouveau dossier/PORTFOLIO/Portfolio Nathan SERROR - version github/portfolio/js",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -89,11 +92,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\css" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\docs" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\logo" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github" />
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\diplômes - certifications" />
-      <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio\img\home page" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\natha\Nouveau dossier\PORTFOLIO\Portfolio Nathan SERROR - version github\portfolio" />
@@ -314,6 +317,9 @@
       <workItem from="1725557931861" duration="324000" />
       <workItem from="1725558343927" duration="75000" />
       <workItem from="1725565438568" duration="341000" />
+      <workItem from="1726157616560" duration="80000" />
+      <workItem from="1727010531885" duration="29000" />
+      <workItem from="1727010699009" duration="643000" />
     </task>
     <task id="LOCAL-00043" summary="first commit">
       <created>1705939206917</created>
@@ -658,7 +664,7 @@
       <option name="project" value="LOCAL" />
       <updated>1725382873507</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
